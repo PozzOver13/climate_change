@@ -11,3 +11,6 @@ data
 
 # Pycharm
 .idea/
+
+# Setuptools
+climate_change.egg-info/
