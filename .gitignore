@@ -12,5 +12,8 @@ data
 # Pycharm
 .idea/
 
+# Visual Code
+.DS_Store
+
 # Setuptools
 climate_change.egg-info/

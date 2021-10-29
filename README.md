@@ -6,4 +6,5 @@ Here's an interesting list:
 https://hackernoon.com/top-datasets-on-climate-change-for-data-science-projects-rzz34p0
 
 Data:
-- https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+- https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data 
+- https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions 
