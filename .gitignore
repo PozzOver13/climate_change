@@ -14,6 +14,7 @@ data
 
 # Visual Code
 .DS_Store
+.vscode
 
 # Setuptools
 climate_change.egg-info/
