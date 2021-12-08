@@ -1,6 +1,6 @@
 # Climate Change :earth_africa:
 
-## Welcome
+## Welcome :wave:
 
 While reading latest Bill Gates' book "How to avoid a climate disaster", I want to dive deep into climate change datasets. 
 I have also deepen my knowledge reading also the Jeremy Rifkin's book "The Green New Deal: Why the Fossil Fuel Civilization Will Collapse by 2028", which provides a broad economic perspective on the topic.
@@ -14,10 +14,10 @@ Data:
 - https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data 
 - https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions 
 
-## Learning steps
-Time Series course on kaggle (https://www.kaggle.com/learn/time-series)
+## Learning steps :rocket:
+Time Series course on kaggle (https://www.kaggle.com/learn/time-series)  
 Tsai library (https://github.com/timeseriesAI/tsai)
 
-## Usefull links
+## Usefull links :bulb:
 https://www.breakthroughenergy.org/  
 https://github.com/KKulma/climate-change-data
